@@ -9,6 +9,7 @@ public class example {
 		obj.put("number","1234");
 		obj.put("is_vip","yes");
 		System.out.print(obj);
+			system.out.print("github");
 		}catch(Exception e){
 			e.printStackTrace();
 		}
